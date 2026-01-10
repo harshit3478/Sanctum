@@ -1,0 +1,7 @@
+{
+  "name": "Sanctum - Phase 1",
+  "description": "Self-critical AI journal with persistent memory and tough-love persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
